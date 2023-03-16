@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/dillonzq/LoveIt/issues"
   },
-  "homepage": "https://github.com/dillonzq/LoveIt#readme"
+  "homepage": "https://github.com/dillonzq/LoveIt#readme",
+  "dependencies": {
+    "@azure/static-web-apps-cli": "^1.1.0"
+  }
 }
